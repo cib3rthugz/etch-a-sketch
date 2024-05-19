@@ -1,0 +1,23 @@
+.container {
+    height: 600px;
+    width: 600px;
+        
+}
+
+body {
+    height: 100vh;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #15202B;
+    align-items: center;
+}
+
+.buttonWrapper {
+    height: 50px;
+    width: 600px;
+    display: flex;
+    justify-content :space-around;
+        
+}
+    
